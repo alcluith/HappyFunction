@@ -1,7 +1,7 @@
 HappyFunction
 =============
 
-SML code to generate the chorus of Pharrel's "Happy" 
+SML code to generate the chorus of Pharrel's "Happy" using a recursive function.
 
 Experimental hack mostly written on a train when out of practice, so not very elegant.
 
